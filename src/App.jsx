@@ -9,6 +9,7 @@ function App() {
     <div>
       {/* <Timer /> */}
       {/* <PostList /> */}
+      <DogGallery />
     </div>
   );
 }
